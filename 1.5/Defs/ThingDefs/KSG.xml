@@ -23,6 +23,7 @@
 		<graphicData>
 			<texPath>Things/Weapons/KSG</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(1.05,1.05)</drawSize>			
 		</graphicData>
 		<soundInteract>Interact_Rifle</soundInteract>
 		<statBases>
@@ -135,7 +136,6 @@
 		</tools>
 		<modExtensions>
 			<li Class="CombatExtended.GunDrawExtension">
-				<DrawSize>1.0,1.05</DrawSize>
 				<DrawOffset>0.05,0</DrawOffset>
 			</li>
 		</modExtensions>

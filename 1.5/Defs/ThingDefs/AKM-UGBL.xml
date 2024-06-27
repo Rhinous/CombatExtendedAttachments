@@ -10,6 +10,7 @@
 		<graphicData>
 			<texPath>Things/Weapons/AKM_GL</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(1.00,1.00)</drawSize>
 		</graphicData>
 		<soundInteract>Interact_Rifle</soundInteract>
 		<statBases>
@@ -128,7 +129,6 @@
 		</tools>
 		<modExtensions>
 			<li Class="CombatExtended.GunDrawExtension">
-				<DrawSize>1.00,1.00</DrawSize>
 				<DrawOffset>0.08,0.0</DrawOffset>
 			</li>
 		</modExtensions>
